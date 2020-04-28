@@ -1,0 +1,23 @@
+{
+    "posts": [
+      { "id": 1, "title": "json-server", "author": "typicode" }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 }
+    ],
+    "profile": { "name": "typicode",
+    "thumbnail":"http://img.recipepuppy.com/514820.jpg"
+    }
+  ,
+
+"chaimaa":[
+    {
+        "id":1,
+        "name":"chaimaa",
+        "email":"chaimaa@gmail.com",
+        "thumbnail":"images/téléchargement.jpg"
+        }
+]
+
+
+}
